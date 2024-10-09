@@ -1,8 +1,6 @@
-# Hi there, I'm Debashis Dhali! 👋
+# Welcome to My GitHub Profile
 
-![Visitors](https://hits.dwyl.com/DebashisDhali/DebashisDhali.svg?label=Visitors&style=flat-square&color=green)
+![Visitor Count](https://hits.sh/DebashisDhali/hits.svg)
 
-## 👨‍💻 About Me
-- I'm a third-year Computer Science and Engineering student.
-- I'm passionate about web development and IoT projects.
+I am a software developer specializing in web applications...
 
