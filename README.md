@@ -1,6 +1,6 @@
 # Welcome to my Profile 👋
 
-![Profile view](https://komarev.com/ghpvc/?username=YourUsername&label=Profile+view)
+![Profile view](https://komarev.com/ghpvc/?DebashisDhali=YourUsername&label=Profile+view)
 
 
 ## 👨‍💻 About Me
