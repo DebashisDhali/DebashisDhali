@@ -1,6 +1,7 @@
 # Welcome to my Profile 👋
 
-![Visitors](https://hits.dwyl.com/DebashisDhali/DebashisDhali.svg?label=Visitors&style=flat-square&color=green)
+![Profile view](https://komarev.com/ghpvc/?username=YourUsername&label=Profile+view)
+
 
 ## 👨‍💻 About Me
 - I'm a third-year Computer Science and Engineering student.
