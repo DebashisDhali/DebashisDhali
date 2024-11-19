@@ -6,8 +6,7 @@
 - 💬 Ask me about Web Development or IoT
 - 📫 Reach me at dhalideba387@gmail.com
 
-### 🖥️ Fun Coding Animation
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer at Desk Animation">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer at Desk Animation">
 
 ## 🌟 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DebashisDhali&show_icons=true&theme=radical)
