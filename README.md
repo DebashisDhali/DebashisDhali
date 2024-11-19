@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Debashis Dhali!
+## 🔥 Dynamic Typing
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=435&lines=Hi!+I'm+Debashis+Dhali;I+build+Web+Apps+%26+Explore+IoT+Solutions)](https://git.io/typing-svg)
+
 
 - 🌱 Learning Full-Stack Development and IoT
 - 💬 Ask me about Web Development or IoT
@@ -11,12 +13,6 @@
 ## 🏆 Achievements
 [![Achievements](https://github-profile-trophy.vercel.app/?username=DebashisDhali&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🔥 Dynamic Typing
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=435&lines=Hi!+I'm+Debashis+Dhali;I+build+Web+Apps+%26+Explore+IoT+Solutions)](https://git.io/typing-svg)
-
-
-### 🌟 Open Source Contributions
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DebashisDhali&theme=react-dark)
 
 ### 📈 Total Commits
 ![Commits](https://komarev.com/ghpvc/?username=DebashisDhali&label=Commit%20Counter&color=green)
