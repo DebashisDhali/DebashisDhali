@@ -20,6 +20,22 @@
 
 
 
+## 📈 Interactive Graphs
+
+### 🌱 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DebashisDhali&theme=react-dark&area=true&hide_border=true)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=DebashisDhali&theme=radical&hide_border=true)
+
+### 🎨 Languages Usage
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DebashisDhali&layout=compact&theme=radical)](https://github.com/DebashisDhali)
+
+### ⏱️ Coding Activity
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=DebashisDhali&theme=radical)
+
+### 🌟 Repository Insights
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=DebashisDhali&repo=FindGithubProfile&theme=radical)
 
 
 
