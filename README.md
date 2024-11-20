@@ -1,7 +1,6 @@
-
+### 😂 Dev Jokes
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=435&lines=Hi!+I'm+Debashis+Dhali;Crafting+Frontend+Experiences;Building+Web+Apps+with+Purpose;Exploring+IoT+Solutions)](https://git.io/typing-svg)
-
-
 
 - 🌱 Learning Full-Stack Development and IoT
 - 💬 Ask me about Web Development or IoT
@@ -15,11 +14,6 @@
 
 ## 🏆 Achievements
 [![Achievements](https://github-profile-trophy.vercel.app/?username=DebashisDhali&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-### 😂 Dev Jokes
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
 
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=DebashisDhali&theme=radical&hide_border=true)
