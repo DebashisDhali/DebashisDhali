@@ -5,7 +5,12 @@
 - 💬 Ask me about Web Development or IoT
 - 📫 Reach me at dhalideba387@gmail.com
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300px" alt="Developer at Desk Animation">
+## 📊 GitHub Stats
+
+<!-- Contribution Graph -->
+![Debashis's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DebashisDhali&theme=github)
+
+---
 
 ### 😂 Dev Jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
@@ -57,11 +62,6 @@
 </p>
 
 
-## 📊 GitHub Stats
 
-<!-- Contribution Graph -->
-![Debashis's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DebashisDhali&theme=github)
-
----
 
 
