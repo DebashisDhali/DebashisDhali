@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=435&lines=Hi!+I'm+Debashis+Dhali;Crafting+Frontend+Experiences;Building+Web+Apps+with+Purpose;Exploring+IoT+Solutions)](https://git.io/typing-svg)
 
-- 🌱 Learning Full-Stack Development and IoT
+- 🌱 Learning AI,Full-Stack Development and IoT
 - 💬 Ask me about Web Development or IoT
 - 📫 Reach me at dhalideba387@gmail.com
 
